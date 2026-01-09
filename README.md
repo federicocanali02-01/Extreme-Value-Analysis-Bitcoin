@@ -64,20 +64,21 @@ requests        # API calls for Fear and Greed Index
 ## 📋 Requirements
 
 ```
-pandas
-numpy
-matplotlib
-plotly
-seaborn
-pyextremes
-sqlalchemy
-requests
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+plotly>=5.0.0
+seaborn>=0.11.0
+pyextremes>=2.0.0
+sqlalchemy>=1.4.0
+requests>=2.26.0
+jupyter>=1.0.0
 ```
 
 To install the required packages:
 
 ```bash
-pip install pandas numpy matplotlib plotly seaborn pyextremes sqlalchemy requests
+pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
