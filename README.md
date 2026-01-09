@@ -23,7 +23,7 @@ The analysis is enriched with the Fear and Greed Index to provide psychological 
 
 ### 1. Bitcoin Historical Data
 - **Source**: [CoinMarketCap](https://coinmarketcap.com/it/)
-- **Period**: 2020-01-01 to 2025-11-30
+- **Period**: January 1, 2020 - November 30, 2025 (historical data)
 - **File**: `Bitcoin_historical_data_clean.csv`
 - **Features**:
   - `timeOpen`: Market opening time
